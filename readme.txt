@@ -1,2 +1,2 @@
-Git is a version control free system.
+Git is a very version control free system.
 strong
